@@ -1,0 +1,12 @@
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\bin\Debug\net6.0\ProjectRM.viewmodels.deps.json
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\bin\Debug\net6.0\ProjectRM.viewmodels.dll
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\bin\Debug\net6.0\ProjectRM.viewmodels.pdb
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\obj\Debug\net6.0\ProjectRM.viewmodels.csproj.AssemblyReference.cache
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\obj\Debug\net6.0\ProjectRM.viewmodels.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\obj\Debug\net6.0\ProjectRM.viewmodels.AssemblyInfoInputs.cache
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\obj\Debug\net6.0\ProjectRM.viewmodels.AssemblyInfo.cs
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\obj\Debug\net6.0\ProjectRM.viewmodels.csproj.CoreCompileInputs.cache
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\obj\Debug\net6.0\ProjectRM.viewmodels.dll
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\obj\Debug\net6.0\refint\ProjectRM.viewmodels.dll
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\obj\Debug\net6.0\ProjectRM.viewmodels.pdb
+D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.viewmodels\obj\Debug\net6.0\ref\ProjectRM.viewmodels.dll
