@@ -1,0 +1,14 @@
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\bin\Debug\net6.0\TugasPraPlacement.exe
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\bin\Debug\net6.0\TugasPraPlacement.deps.json
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\bin\Debug\net6.0\TugasPraPlacement.runtimeconfig.json
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\bin\Debug\net6.0\TugasPraPlacement.dll
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\bin\Debug\net6.0\TugasPraPlacement.pdb
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\obj\Debug\net6.0\TugasPraPlacement.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\obj\Debug\net6.0\TugasPraPlacement.AssemblyInfoInputs.cache
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\obj\Debug\net6.0\TugasPraPlacement.AssemblyInfo.cs
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\obj\Debug\net6.0\TugasPraPlacement.csproj.CoreCompileInputs.cache
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\obj\Debug\net6.0\TugasPraPlacement.dll
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\obj\Debug\net6.0\refint\TugasPraPlacement.dll
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\obj\Debug\net6.0\TugasPraPlacement.pdb
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\obj\Debug\net6.0\TugasPraPlacement.genruntimeconfig.cache
+D:\IDE\BATCH_334\Tugas PraPlacement\TugasPraPlacement\TugasPraPlacement\obj\Debug\net6.0\ref\TugasPraPlacement.dll

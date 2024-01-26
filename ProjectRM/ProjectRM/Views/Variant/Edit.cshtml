@@ -1,0 +1,131 @@
+﻿﻿﻿@using ProjectRM.viewmodels;
+@model VMTblVariant
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Edit Variant";
+}
+
+<div class="card">
+    <div class="card-body">
+
+        @* <div class="h4 mb-4">@ViewData["Title"]</div> *@
+        <div class="card-title">@ViewData["Title"]</div>
+
+        <form asp-action="Edit" method="post" id="form_input">
+            <input type="hidden" class="form-control" id="Id" name="Id" value="@Model.Id">
+
+
+            <div class="mb-4 row">
+                <label for="NameVariant" class="col-sm-4 col-form-label">Name Variant</label>
+                <div class="col-sm-8">
+                    <input type="text" class="form-control" id="NameVariant" name="NameVariant" value="@Model.NameVariant">
+                    <span id="validate_NameVariant" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="mb-4 row">
+                <label for="IdCategory" class="col-sm-4 col-form-label">Name Category</label>
+                <div class="col-sm-8">
+                    @Html.DropDownList("IdCategory",
+                    new SelectList(ViewBag.ListCategory,"Id","NameCategory"),
+                    "--Pilih Category--",
+                    new {@class = "form-control"}
+                    )
+                </div>
+            </div>
+
+            <div class="mb-4 row">
+                <label for="Description" class="col-sm-4 col-form-label">Description</label>
+                <div class="col-sm-8">
+                    @* <input type="text" class="form-control" id="Description" name="Description" value="@Model.Description"> *@
+                    <textarea type="text" class="form-control" id="Description" Name="Description">@Model.Description</textarea>
+
+                </div>
+            </div>
+
+            <div class="mb-4 row">
+                <div class="col-sm-8">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <a class="btn btn-light" asp-controller="Variant" asp-action="Index">Back to List</a>
+                </div>
+            </div>
+        </form>
+
+    </div>
+</div>
+
+<script>
+    $("#form_input").validate({
+        errorClass: "text-danger",
+        rules: {
+            NameVariant: {
+                required: true,
+                minlength: 3,
+            },
+            IdCategory: "required"
+        },
+        messages: {
+            NameVariant: {
+                required: "Please fill Name Variant",
+                minlength: "The name must consist of at least 3 character"
+            },
+            IdCategory: "Please select category"
+        },
+        submitHandler: function (form) {
+            var dataForm = $(form).serialize()
+
+            var name = $("#NameVariant").val()
+            var id = $("#Id").val()
+            var idCategory = $("#IdCategory").val()
+
+            $.ajax({
+                url: "/Variant/CheckNameIsExist",
+                type: "get", //type atau method sama aja.
+                data: { name: name, id: id, idCategory: idCategory },
+                dataType: "json",
+                success: function (respon) {
+                    if (respon) {
+                        $("#validate_NameVariant").text("Name Variant Already Exists");
+                        return true;
+                    }
+                    else {
+                        fungsiSubmit(dataForm)
+                    }
+                }
+
+            })
+        }
+    })
+
+    function fungsiSubmit(dataParam) {
+        $.ajax({
+            url: "/Variant/Edit",
+            type: "post",
+            data: dataParam,
+            dataType: "json",
+            success: function (respon) {
+                var data = respon.dataRespon
+                if (data.success) {
+                    $("#my_modal").modal("hide")
+
+                    toastr.success(
+                        data.message,
+                        '',
+                        {
+                            timeOut: 500,
+                            fadeOut: 500,
+                            onHidden: function () {
+                                window.location.reload()
+                            }
+                        }
+                    )
+                }
+                else {
+                    toastr.errorClass(data.message)
+                }
+
+            }
+        })
+    }
+</script>

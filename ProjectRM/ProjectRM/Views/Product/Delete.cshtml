@@ -1,0 +1,81 @@
+﻿@using ProjectRM.viewmodels;
+@model VMTblProduct;
+
+
+@{
+    ViewData["Title"] = "Delete Product";
+}
+
+
+<div class="card">
+    <div class="card-body">
+
+        <form asp-action="SureDelete" method="post" id="form_delete">
+            <input type="hidden" id="Id" name="Id" value="@Model.Id" />
+            <h3 class="">Are you sure to delete this data <br />@Model.NameProduct</h3>
+            <div class="mb-4 row">
+                <label for="ImageFile" class="col-sm-4 col-form-label">Image</label>
+                <div class="col-sm-8 vstack gap-2 col-md-5 mx-auto">
+                    <img src="~/images/@Model.Image" alt="Gambar @Model.NameProduct" class="" height="100" />
+                    <div> @Model.Image.Split("_",2)[1]</div>
+
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-primary">Yes?</button>
+                <a asp-controller="Product" asp-action="Index" class="btn btn-light">No</a>
+            </div>
+
+
+
+        </form>
+    </div>
+</div>
+
+
+<script>
+    $("#form_delete").validate({
+        submitHandler: function (form) {
+
+            var id = $("#Id").val()
+            // var dataParam = $(form).serialize()    ---> contoh kalo make form
+            $.ajax({
+                url: '/Product/SureDelete',
+                type: "post",
+                data: { id: id },
+                dataType: "json",
+                success: function (respon) {
+                    var data = respon.dataRespon
+                    if (data.success) {
+                        $("#my_modal").modal("hide")
+                        // toastr.success(
+                        //     data.message,
+                        //     '',
+                        //     {
+                        //         timeOut: 500,
+                        //         fadeOut: 500,
+                        //         onHidden: function () {
+                        //             window.location.reload()
+                        //         }
+                        //     }
+                        // )
+                        Swal.fire({
+                            title: "Information!",
+                            text: data.message,
+                            icon: "success"
+                        }).then((result) => {
+                            if (result.value) {
+                                window.location.reload();
+                            }
+                        });
+                    }
+                    else {
+                        toastr.errorClass(data.message)
+                    }
+                }
+
+            })
+        }
+    })
+</script>
+

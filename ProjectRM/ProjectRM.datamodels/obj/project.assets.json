@@ -2017,11 +2017,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM.datamodels\\ProjectRM.datamodels.csproj",
+      "projectUniqueName": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM.datamodels\\ProjectRM.datamodels.csproj",
       "projectName": "ProjectRM.datamodels",
-      "projectPath": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM.datamodels\\ProjectRM.datamodels.csproj",
+      "projectPath": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM.datamodels\\ProjectRM.datamodels.csproj",
       "packagesPath": "C:\\Users\\RIM\\.nuget\\packages\\",
-      "outputPath": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM.datamodels\\obj\\",
+      "outputPath": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM.datamodels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RIM\\AppData\\Roaming\\NuGet\\NuGet.Config",

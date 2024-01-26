@@ -9,37 +9,105 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjectRM
 build_property.RootNamespace = ProjectRM
-build_property.ProjectDir = D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM\
+build_property.ProjectDir = D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM
+build_property.MSBuildProjectDirectory = D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/IDE/BATCH_334/Project RM/ProjectRM/ProjectRM/Views/Home/Index.cshtml]
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Category/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IDE/BATCH_334/Project RM/ProjectRM/ProjectRM/Views/Home/Privacy.cshtml]
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IDE/BATCH_334/Project RM/ProjectRM/ProjectRM/Views/Shared/Error.cshtml]
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IDE/BATCH_334/Project RM/ProjectRM/ProjectRM/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Shared/_Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TaWRlYmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IDE/BATCH_334/Project RM/ProjectRM/ProjectRM/Views/_ViewImports.cshtml]
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Variant/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFyaWFudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Variant/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFyaWFudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Variant/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFyaWFudFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Variant/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFyaWFudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Variant/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFyaWFudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IDE/BATCH_334/Project RM/ProjectRM/ProjectRM/Views/_ViewStart.cshtml]
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/IDE/BATCH_334/Project RM/ProjectRM/ProjectRM/Views/Shared/_Layout.cshtml]
+[D:/IDE/BATCH_334/TugasProject1/ProjectRM/ProjectRM/ProjectRM/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7dk9ufdv5r

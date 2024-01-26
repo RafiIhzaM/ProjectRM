@@ -1,755 +1,779 @@
 {
   "Files": [
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjectRM.bundle.scp.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ProjectRM.bundle.scp.css",
       "PackagePath": "staticwebassets\\ProjectRM.bundle.scp.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\css\\site.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\favicon.ico",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\js\\site.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\images\\23540c39-5152-40aa-b0d9-ce8fffc8d208_Panadol.jpg",
+      "PackagePath": "staticwebassets\\images\\23540c39-5152-40aa-b0d9-ce8fffc8d208_Panadol.jpg"
+    },
+    {
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\OwlCarousel2-2.3.4.zip",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\OwlCarousel2-2.3.4.zip",
       "PackagePath": "staticwebassets\\ogani\\Source\\OwlCarousel2-2.3.4.zip"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\SlickNav-master.zip",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\SlickNav-master.zip",
       "PackagePath": "staticwebassets\\ogani\\Source\\SlickNav-master.zip"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\bootstrap-4.4.1-dist.zip",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\bootstrap-4.4.1-dist.zip",
       "PackagePath": "staticwebassets\\ogani\\Source\\bootstrap-4.4.1-dist.zip"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\font-awesome-4.7.0.zip",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\font-awesome-4.7.0.zip",
       "PackagePath": "staticwebassets\\ogani\\Source\\font-awesome-4.7.0.zip"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\jquery-nice-select-1.1.0.zip",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\jquery-nice-select-1.1.0.zip",
       "PackagePath": "staticwebassets\\ogani\\Source\\jquery-nice-select-1.1.0.zip"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\jquery-ui-1.12.1.zip",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\jquery-ui-1.12.1.zip",
       "PackagePath": "staticwebassets\\ogani\\Source\\jquery-ui-1.12.1.zip"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\sass.zip",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\Source\\sass.zip",
       "PackagePath": "staticwebassets\\ogani\\Source\\sass.zip"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\blog-details.html",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\blog-details.html",
       "PackagePath": "staticwebassets\\ogani\\blog-details.html"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\blog.html",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\blog.html",
       "PackagePath": "staticwebassets\\ogani\\blog.html"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\checkout.html",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\checkout.html",
       "PackagePath": "staticwebassets\\ogani\\checkout.html"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\contact.html",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\contact.html",
       "PackagePath": "staticwebassets\\ogani\\contact.html"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\bootstrap.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\ogani\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\elegant-icons.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\elegant-icons.css",
       "PackagePath": "staticwebassets\\ogani\\css\\elegant-icons.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\font-awesome.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\ogani\\css\\font-awesome.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\jquery-ui.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\jquery-ui.min.css",
       "PackagePath": "staticwebassets\\ogani\\css\\jquery-ui.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\nice-select.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\nice-select.css",
       "PackagePath": "staticwebassets\\ogani\\css\\nice-select.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\owl.carousel.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\ogani\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\slicknav.min.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\slicknav.min.css",
       "PackagePath": "staticwebassets\\ogani\\css\\slicknav.min.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\style.css",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\css\\style.css",
       "PackagePath": "staticwebassets\\ogani\\css\\style.css"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\ElegantIcons.eot",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\ElegantIcons.eot",
       "PackagePath": "staticwebassets\\ogani\\fonts\\ElegantIcons.eot"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\ElegantIcons.svg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\ElegantIcons.svg",
       "PackagePath": "staticwebassets\\ogani\\fonts\\ElegantIcons.svg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\ElegantIcons.ttf",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\ElegantIcons.ttf",
       "PackagePath": "staticwebassets\\ogani\\fonts\\ElegantIcons.ttf"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\ElegantIcons.woff",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\ElegantIcons.woff",
       "PackagePath": "staticwebassets\\ogani\\fonts\\ElegantIcons.woff"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\FontAwesome.otf",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\FontAwesome.otf",
       "PackagePath": "staticwebassets\\ogani\\fonts\\FontAwesome.otf"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\fontawesome-webfont.eot",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\fontawesome-webfont.eot",
       "PackagePath": "staticwebassets\\ogani\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\fontawesome-webfont.svg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\fontawesome-webfont.svg",
       "PackagePath": "staticwebassets\\ogani\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\fontawesome-webfont.ttf",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\ogani\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\fontawesome-webfont.woff",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\ogani\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\fontawesome-webfont.woff2",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\ogani\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\banner\\banner-1.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\banner\\banner-1.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\banner\\banner-1.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\banner\\banner-2.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\banner\\banner-2.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\banner\\banner-2.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-1.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-1.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\blog-1.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-2.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-2.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\blog-2.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-3.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-3.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\blog-3.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-4.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-4.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\blog-4.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-5.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-5.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\blog-5.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-6.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\blog-6.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\blog-6.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\details\\details-author.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\details\\details-author.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\details\\details-author.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\details\\details-hero.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\details\\details-hero.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\details\\details-hero.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\details\\details-pic.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\details\\details-pic.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\details\\details-pic.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\sidebar\\sr-1.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\sidebar\\sr-1.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\sidebar\\sr-1.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\sidebar\\sr-2.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\sidebar\\sr-2.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\sidebar\\sr-2.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\sidebar\\sr-3.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\blog\\sidebar\\sr-3.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\blog\\sidebar\\sr-3.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\breadcrumb.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\breadcrumb.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\breadcrumb.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\cart\\cart-1.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\cart\\cart-1.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\cart\\cart-1.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\cart\\cart-2.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\cart\\cart-2.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\cart\\cart-2.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\cart\\cart-3.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\cart\\cart-3.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\cart\\cart-3.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\categories\\cat-1.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\categories\\cat-1.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\categories\\cat-1.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\categories\\cat-2.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\categories\\cat-2.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\categories\\cat-2.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\categories\\cat-3.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\categories\\cat-3.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\categories\\cat-3.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\categories\\cat-4.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\categories\\cat-4.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\categories\\cat-4.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\categories\\cat-5.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\categories\\cat-5.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\categories\\cat-5.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-1.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-1.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\featured\\feature-1.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-2.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-2.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\featured\\feature-2.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-3.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-3.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\featured\\feature-3.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-4.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-4.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\featured\\feature-4.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-5.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-5.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\featured\\feature-5.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-6.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-6.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\featured\\feature-6.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-7.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-7.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\featured\\feature-7.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-8.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\featured\\feature-8.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\featured\\feature-8.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\hero\\banner.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\hero\\banner.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\hero\\banner.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\language.png",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\language.png",
       "PackagePath": "staticwebassets\\ogani\\img\\language.png"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\latest-product\\lp-1.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\latest-product\\lp-1.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\latest-product\\lp-1.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\latest-product\\lp-2.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\latest-product\\lp-2.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\latest-product\\lp-2.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\latest-product\\lp-3.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\latest-product\\lp-3.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\latest-product\\lp-3.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\logo.png",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\logo.png",
       "PackagePath": "staticwebassets\\ogani\\img\\logo.png"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\payment-item.png",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\payment-item.png",
       "PackagePath": "staticwebassets\\ogani\\img\\payment-item.png"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\product-details-1.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\product-details-1.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\details\\product-details-1.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\product-details-2.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\product-details-2.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\details\\product-details-2.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\product-details-3.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\product-details-3.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\details\\product-details-3.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\product-details-4.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\product-details-4.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\details\\product-details-4.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\product-details-5.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\product-details-5.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\details\\product-details-5.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\thumb-1.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\thumb-1.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\details\\thumb-1.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\thumb-2.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\thumb-2.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\details\\thumb-2.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\thumb-3.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\thumb-3.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\details\\thumb-3.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\thumb-4.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\details\\thumb-4.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\details\\thumb-4.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-1.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-1.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\discount\\pd-1.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-2.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-2.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\discount\\pd-2.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-3.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-3.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\discount\\pd-3.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-4.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-4.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\discount\\pd-4.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-5.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-5.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\discount\\pd-5.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-6.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\discount\\pd-6.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\discount\\pd-6.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-1.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-1.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-1.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-10.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-10.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-10.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-11.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-11.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-11.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-12.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-12.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-12.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-2.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-2.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-2.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-3.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-3.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-3.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-4.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-4.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-4.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-5.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-5.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-5.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-6.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-6.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-6.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-7.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-7.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-7.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-8.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-8.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-8.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-9.jpg",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\img\\product\\product-9.jpg",
       "PackagePath": "staticwebassets\\ogani\\img\\product\\product-9.jpg"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\index.html",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\index.html",
       "PackagePath": "staticwebassets\\ogani\\index.html"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\bootstrap.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\ogani\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\jquery-3.3.1.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\jquery-3.3.1.min.js",
       "PackagePath": "staticwebassets\\ogani\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\jquery-ui.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\jquery-ui.min.js",
       "PackagePath": "staticwebassets\\ogani\\js\\jquery-ui.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\jquery.nice-select.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\jquery.nice-select.min.js",
       "PackagePath": "staticwebassets\\ogani\\js\\jquery.nice-select.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\jquery.slicknav.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\jquery.slicknav.js",
       "PackagePath": "staticwebassets\\ogani\\js\\jquery.slicknav.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\main.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\main.js",
       "PackagePath": "staticwebassets\\ogani\\js\\main.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\mixitup.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\mixitup.min.js",
       "PackagePath": "staticwebassets\\ogani\\js\\mixitup.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\owl.carousel.min.js",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\js\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\ogani\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\main.html",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\main.html",
       "PackagePath": "staticwebassets\\ogani\\main.html"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\readme.txt",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\plugins\\sweetalert2\\sweetalert2.js",
+      "PackagePath": "staticwebassets\\ogani\\plugins\\sweetalert2\\sweetalert2.js"
+    },
+    {
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\plugins\\toastr\\toastr.css",
+      "PackagePath": "staticwebassets\\ogani\\plugins\\toastr\\toastr.css"
+    },
+    {
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\plugins\\toastr\\toastr.js.map",
+      "PackagePath": "staticwebassets\\ogani\\plugins\\toastr\\toastr.js.map"
+    },
+    {
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\plugins\\toastr\\toastr.min.css",
+      "PackagePath": "staticwebassets\\ogani\\plugins\\toastr\\toastr.min.css"
+    },
+    {
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\plugins\\toastr\\toastr.min.js",
+      "PackagePath": "staticwebassets\\ogani\\plugins\\toastr\\toastr.min.js"
+    },
+    {
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\readme.txt",
       "PackagePath": "staticwebassets\\ogani\\readme.txt"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_base.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_base.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_base.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_blog-details.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_blog-details.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_blog-details.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_blog-sidebar.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_blog-sidebar.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_blog-sidebar.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_blog.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_blog.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_blog.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_breadcrumb.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_breadcrumb.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_checkout.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_checkout.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_checkout.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_contact.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_contact.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_contact.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_footer.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_footer.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_footer.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_header.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_header.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_header.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_hero.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_hero.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_hero.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_home-page.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_home-page.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_home-page.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_mixins.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_mixins.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_mixins.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_responsive.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_responsive.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_responsive.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_shop-details.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_shop-details.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_shop-details.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_shop-grid.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_shop-grid.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_shop-grid.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_shoping-cart.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_shoping-cart.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_shoping-cart.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_sidebar.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_sidebar.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_sidebar.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_variable.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\_variable.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\_variable.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\style.scss",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\sass\\style.scss",
       "PackagePath": "staticwebassets\\ogani\\sass\\style.scss"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\shop-details.html",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\shop-details.html",
       "PackagePath": "staticwebassets\\ogani\\shop-details.html"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\shop-grid.html",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\shop-grid.html",
       "PackagePath": "staticwebassets\\ogani\\shop-grid.html"
     },
     {
-      "Id": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\shoping-cart.html",
+      "Id": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM\\wwwroot\\ogani\\shoping-cart.html",
       "PackagePath": "staticwebassets\\ogani\\shoping-cart.html"
     },
     {

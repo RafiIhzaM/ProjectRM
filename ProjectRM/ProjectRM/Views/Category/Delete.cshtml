@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Delete Category";
+}
+
+<div class="card">
+    <div class="card-body">
+
+        <form asp-action="SureDelete" method="post" id="form_delete">
+            <input type="hidden" id="Id" name="Id" value="@Model.Id" />
+            <h3 class="">Are you sure to delete this data <br />@Model.NameCategory</h3>
+            <div class="modal-footer">
+                <button type="submit" class="btn btn-primary">Yes?</button>
+                <a asp-controller="Category" asp-action="Index" class="btn btn-light">No</a>
+            </div>
+
+
+        </form>
+    </div>
+</div>
+
+<script>
+    $("#form_delete").validate({
+        submitHandler: function (form) {
+            //  var dataParam = $(form)
+            var id = $("#Id").val()
+
+            $.ajax({
+                url: '/Category/SureDelete',
+                type: "post",
+                data: { id: id },
+                dataType: "json",
+                success: function (respon) {
+                    var data = respon.dataRespon
+                    if (data.success) {
+                        $("#my_modal").modal("hide")
+                        toastr.success(
+                            data.message,
+                            '',
+                            {
+                                timeOut: 500,
+                                fadeOut: 500,
+                                onHidden: function () {
+                                    window.location.reload()
+                                }
+                            }
+                        )
+                    }
+                    else {
+                        toastr.errorClass(data.message)
+                    }
+                }
+
+            })
+        }
+    })
+</script>

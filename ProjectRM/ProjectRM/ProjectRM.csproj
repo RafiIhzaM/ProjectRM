@@ -20,7 +20,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\ProjectRM.datamodels\ProjectRM.datamodels.csproj" />
+    <ProjectReference Include="..\ProjectRM.viewmodels\ProjectRM.viewmodels.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
   </ItemGroup>
 
 </Project>

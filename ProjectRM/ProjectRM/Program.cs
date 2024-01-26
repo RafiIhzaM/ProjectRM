@@ -1,7 +1,22 @@
+using Microsoft.EntityFrameworkCore;
+using ProjectRM.datamodels;
+using ProjectRM.Service;
+using ProjectRM.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<CategoryService>();
+builder.Services.AddScoped<VariantService>();
+builder.Services.AddScoped<ProductService>();
+
+// Add connection string
+builder.Services.AddDbContext<BLQ_ProjectContext>(option =>
+{
+    option.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
 
 var app = builder.Build();
 

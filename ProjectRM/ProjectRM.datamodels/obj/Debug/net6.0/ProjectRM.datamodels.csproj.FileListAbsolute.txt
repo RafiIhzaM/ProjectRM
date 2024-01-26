@@ -12,3 +12,17 @@ D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\refi
 D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ProjectRM.datamodels.pdb
 D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ProjectRM.datamodels.genruntimeconfig.cache
 D:\IDE\BATCH_334\Project RM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ref\ProjectRM.datamodels.dll
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\bin\Debug\net6.0\ProjectRM.datamodels.deps.json
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\bin\Debug\net6.0\ProjectRM.datamodels.runtimeconfig.json
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\bin\Debug\net6.0\ProjectRM.datamodels.dll
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\bin\Debug\net6.0\ProjectRM.datamodels.pdb
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ProjectRM.datamodels.csproj.AssemblyReference.cache
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ProjectRM.datamodels.GeneratedMSBuildEditorConfig.editorconfig
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ProjectRM.datamodels.AssemblyInfoInputs.cache
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ProjectRM.datamodels.AssemblyInfo.cs
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ProjectRM.datamodels.csproj.CoreCompileInputs.cache
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ProjectRM.datamodels.dll
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\refint\ProjectRM.datamodels.dll
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ProjectRM.datamodels.pdb
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ProjectRM.datamodels.genruntimeconfig.cache
+D:\IDE\BATCH_334\TugasProject1\ProjectRM\ProjectRM\ProjectRM.datamodels\obj\Debug\net6.0\ref\ProjectRM.datamodels.dll

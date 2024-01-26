@@ -127,11 +127,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM.viewmodels\\ProjectRM.viewmodels.csproj",
+      "projectUniqueName": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM.viewmodels\\ProjectRM.viewmodels.csproj",
       "projectName": "ProjectRM.viewmodels",
-      "projectPath": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM.viewmodels\\ProjectRM.viewmodels.csproj",
+      "projectPath": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM.viewmodels\\ProjectRM.viewmodels.csproj",
       "packagesPath": "C:\\Users\\RIM\\.nuget\\packages\\",
-      "outputPath": "D:\\IDE\\BATCH_334\\Project RM\\ProjectRM\\ProjectRM.viewmodels\\obj\\",
+      "outputPath": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\ProjectRM\\ProjectRM.viewmodels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RIM\\AppData\\Roaming\\NuGet\\NuGet.Config",
