@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IDE\\BATCH_334\\TugasProject\\projectrm\\TugasPraPlacement\\TugasPraPlacement\\TugasPraPlacement.csproj": {}
+    "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\TugasPraPlacement\\TugasPraPlacement\\TugasPraPlacement.csproj": {}
   },
   "projects": {
-    "D:\\IDE\\BATCH_334\\TugasProject\\projectrm\\TugasPraPlacement\\TugasPraPlacement\\TugasPraPlacement.csproj": {
+    "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\TugasPraPlacement\\TugasPraPlacement\\TugasPraPlacement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IDE\\BATCH_334\\TugasProject\\projectrm\\TugasPraPlacement\\TugasPraPlacement\\TugasPraPlacement.csproj",
+        "projectUniqueName": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\TugasPraPlacement\\TugasPraPlacement\\TugasPraPlacement.csproj",
         "projectName": "TugasPraPlacement",
-        "projectPath": "D:\\IDE\\BATCH_334\\TugasProject\\projectrm\\TugasPraPlacement\\TugasPraPlacement\\TugasPraPlacement.csproj",
+        "projectPath": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\TugasPraPlacement\\TugasPraPlacement\\TugasPraPlacement.csproj",
         "packagesPath": "C:\\Users\\RIM\\.nuget\\packages\\",
-        "outputPath": "D:\\IDE\\BATCH_334\\TugasProject\\projectrm\\TugasPraPlacement\\TugasPraPlacement\\obj\\",
+        "outputPath": "D:\\IDE\\BATCH_334\\TugasProject1\\ProjectRM\\TugasPraPlacement\\TugasPraPlacement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RIM\\AppData\\Roaming\\NuGet\\NuGet.Config",

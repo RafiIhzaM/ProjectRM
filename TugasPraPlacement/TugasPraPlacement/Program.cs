@@ -3,19 +3,47 @@ Console.ReadKey();
 
 static void nomerSatu()
 {
-    Console.WriteLine("---BARANG PILIHAN---");
-    Console.WriteLine("Berapa Uang anda : ");
-    int uang = int.Parse(Console.ReadLine());
+        int[] kacamata = { 500, 600, 700, 800 };
+        int[] baju = { 200, 400, 350 };
+        int[] sepatu = { 400, 350, 200, 300 };
+        int[] buku = { 100, 50, 150 };
 
-    Dictionary<string, List<int>> items = new Dictionary<string, List<int>>
-    {
-        { "Kaca_mata", new List<int> { 500, 600, 700, 800 } },
-        { "Baju", new List<int> { 200, 400, 350 } },
-        { "Sepatu", new List<int> { 400, 350, 200, 300 } },
-        { "Buku", new List<int> { 100, 50, 150 } }
-    };
+        int budget = 1000;
+        int bill = 0;
+        int selPrev = 0;
+        int selisihbudget = 0;
 
-    
+
+        List<string> belanja = new List<string>();
+
+        for (int i = 0; i < kacamata.Length; i++)
+        {
+            for (int j = 0; j < baju.Length; j++)
+            {
+                for (int k = 0; k < sepatu.Length; k++)
+                {
+                    for (int l = 0; l < buku.Length; l++)
+                    {
+                        bill = kacamata[i] + baju[j] + sepatu[k] + buku[l];
+                        selisihbudget = budget - bill;
+                        if (bill <= 1000 && selisihbudget <= selPrev)
+                        {
+                            belanja.Clear();
+                            belanja.Add($"kacamata {kacamata[i]}");
+                            belanja.Add($"baju {baju[j]}");
+                            belanja.Add($"sepatu {sepatu[k]}");
+                            belanja.Add($"buku {buku[l]}");
+
+                            selPrev = selisihbudget;
+                        }
+
+
+                    }
+                }
+            }
+        }
+
+        Console.WriteLine($"\nJumlah item : {belanja.Count()} ({String.Join(", ", belanja)})");
 
 }
 
